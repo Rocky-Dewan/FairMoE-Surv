@@ -65,7 +65,7 @@ If you find this work useful in your research, please consider citing our paper 
   author    = {Md Rocky Dewan , Rownuk Ara Rumy and Md. Saddam Hossain},
   booktitle = {Proceedings of the 11th IEEE Asia-Pacific Conference on Computer Science and Data Engineering (IEEE CSDE 2026)},
   location  = {Cox's Bazar, Bangladesh},
-  pages     = {1--8},
+  pages     = {1--6},
   year      = {2026},
   month     = {November},
   publisher = {IEEE},
