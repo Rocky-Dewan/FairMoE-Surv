@@ -1,5 +1,10 @@
 # FairMoE-Surv: A Fairness-Gated Neuro-Symbolic Mixture-of-Experts for Equitable Clinical Risk Prediction with Cross-Cohort Validation
 
+**Md Rocky Dewan**<sup>1</sup> [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--1477--4022-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-1477-4022), **Rownuk Ara Rumy**<sup>2</sup>, and **Md. Saddam Hossain**<sup>3</sup>
+
+<sup>1,3</sup>Department of Computer Science and Engineering, Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh  
+<sup>2</sup>Department of Computer Science and Engineering, Stamford University Bangladesh, Dhaka, Bangladesh
+
 [![Conference](https://img.shields.io/badge/Accepted-IEEE%20CSDE%202026-blue)](https://www.ieee-csde.org/)
 [![Status](https://img.shields.io/badge/Proceedings-Coming%20Soon-orange)](#citation)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -57,6 +62,7 @@ If you find this work useful in your research, please consider citing our paper 
 ```bibtex
 @inproceedings{fairmoesurv2026,
   title     = {FairMoE-Surv: A Fairness-Gated Neuro-Symbolic Mixture-of-Experts for Equitable Clinical Risk Prediction with Cross-Cohort Validation},
+  author    = {Md Rocky Dewan , Rownuk Ara Rumy and Md. Saddam Hossain},
   booktitle = {Proceedings of the 11th IEEE Asia-Pacific Conference on Computer Science and Data Engineering (IEEE CSDE 2026)},
   location  = {Cox's Bazar, Bangladesh},
   pages     = {1--8},
